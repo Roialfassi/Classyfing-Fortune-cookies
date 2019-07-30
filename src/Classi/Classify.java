@@ -1,4 +1,4 @@
-package hw3_205814890;
+package Classi;
 
 import java.io.File;
 import java.io.FileNotFoundException;
